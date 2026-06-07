@@ -1,2 +1,0 @@
-var e=(e,t)=>{let n=document.createElement(`a`);return n.download=e,n.href=URL.createObjectURL(t),n.click(),n.remove(),setTimeout(()=>{URL.revokeObjectURL(n.href)},0),t};export{e as t};
-//# sourceMappingURL=blob-D5dUSblA.js.map

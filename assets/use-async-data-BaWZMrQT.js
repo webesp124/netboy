@@ -1,0 +1,2 @@
+import{a as e}from"./rolldown-runtime-BYbx6iT9.js";import{r as t}from"./react-D4Cofj83.js";var n=e(t(),1),r=({fetchFn:e,loadOnMount:t=!1,clearDataOnLoad:r=!1})=>{let[i,a]=(0,n.useState)(null),[o,s]=(0,n.useState)(null),[c,l]=(0,n.useState)(!1),u=()=>s(null),d=(0,n.useCallback)(async t=>{l(!0),s(null),r&&a(null);try{a(await e(t)),l(!1)}catch(e){s(e),l(!1)}},[r,e]);return(0,n.useEffect)(()=>{t&&d()},[]),{data:i,isLoading:c,error:o,clearError:u,execute:d}};export{r as t};
+//# sourceMappingURL=use-async-data-BaWZMrQT.js.map
