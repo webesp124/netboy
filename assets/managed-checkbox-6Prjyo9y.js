@@ -1,0 +1,2 @@
+import{i as e}from"./react-D4Cofj83.js";import{C as t,D as n}from"./mui-DRnbdFkt.js";var r=e(),i=({id:e,label:i,watcher:a,ref:o,...s})=>(0,r.jsx)(t,{"data-testid":`managed-checkbox:label`,id:e,control:(0,r.jsx)(n,{ref:o,checked:!!a,...s}),label:i,style:{margin:0}});export{i as t};
+//# sourceMappingURL=managed-checkbox-6Prjyo9y.js.map
