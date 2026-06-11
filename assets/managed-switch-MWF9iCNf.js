@@ -1,2 +1,0 @@
-import{i as e}from"./react-D4Cofj83.js";import{S as t,p as n}from"./mui-4yyY5GJo.js";var r=e(),i=({id:e,label:i,watcher:a,ref:o,...s})=>(0,r.jsx)(t,{"data-testid":`managed-switch:label`,id:e,control:(0,r.jsx)(n,{ref:o,checked:!!a,...s}),label:i,style:{margin:0}});export{i as t};
-//# sourceMappingURL=managed-switch-MWF9iCNf.js.map
