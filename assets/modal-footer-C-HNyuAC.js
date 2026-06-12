@@ -1,0 +1,2 @@
+import{i as e}from"./react-D4Cofj83.js";import{i as t}from"./styled-ObQ8HfU6.js";var n=e(),r=({children:e})=>(0,n.jsx)(t,{"data-testid":`modal-footer:wrapper`,children:e});export{r as t};
+//# sourceMappingURL=modal-footer-C-HNyuAC.js.map

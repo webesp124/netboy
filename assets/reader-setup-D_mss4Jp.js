@@ -1,0 +1,2 @@
+import{i as e}from"./react-D4Cofj83.js";import{W as t}from"./mui-ByWCFDxG.js";import{t as n}from"./index-DQmRkvfG.js";import{n as r,t as i}from"./modal-header-C2bqX66I.js";var a=e(),o=t(r,{target:`e13yuyym0`})(`max-height:calc(90dvh - 73px);`),s=()=>(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(i,{title:`NetBoy Network Setup`}),(0,a.jsx)(o,{children:(0,a.jsx)(n,{})})]});export{s as ReaderSetupModal};
+//# sourceMappingURL=reader-setup-D_mss4Jp.js.map

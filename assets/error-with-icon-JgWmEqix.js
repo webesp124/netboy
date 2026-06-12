@@ -1,0 +1,2 @@
+import{i as e}from"./react-D4Cofj83.js";import{W as t}from"./mui-ByWCFDxG.js";import{r as n}from"./styled-ObQ8HfU6.js";var r=e(),i=t(`div`,{target:`e1mludt80`})(`display:flex;align-items:center;gap:5px;`),a=t(n,{target:`e1mludt81`})(`color:`,({theme:e})=>e.errorRed,`;`),o=({icon:e,text:t,className:n})=>(0,r.jsxs)(i,{"data-testid":`error-with-icon`,className:n,children:[e,(0,r.jsx)(a,{children:t})]});export{o as t};
+//# sourceMappingURL=error-with-icon-JgWmEqix.js.map
